@@ -1,0 +1,9 @@
+# Ignore solutions folder
+solutions/
+
+# Ignore any file with _solution in the name
+*_solution.py
+
+# Ignore answer key files
+*_answer.py
+*_answers.py 
